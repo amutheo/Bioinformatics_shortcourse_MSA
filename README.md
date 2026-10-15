@@ -47,4 +47,4 @@ conda install -c bioconda aliview
 ```
 In AliView, click  File → Open, then upload the sequence alignment to visualize. 
 
-
+![Aliview image](Aliview_image)
