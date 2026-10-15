@@ -46,5 +46,3 @@ To install AliView, we run the command:
 conda install -c bioconda aliview
 ```
 In AliView, click  File → Open, then upload the sequence alignment to visualize. 
-
-![Aliview image](Screenshot 2026-10-15 124048.png)
